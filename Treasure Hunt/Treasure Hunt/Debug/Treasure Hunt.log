@@ -1,0 +1,12 @@
+﻿  agents.cpp
+  Explorer.cpp
+  GameMode.cpp
+c:\users\iosif-laptop\desktop\teme facultate anul 1\semestrul 2\poo lab\treasure hunt\treasure hunt\treasure hunt\randomfunction.h(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  map.cpp
+c:\users\iosif-laptop\desktop\teme facultate anul 1\semestrul 2\poo lab\treasure hunt\treasure hunt\treasure hunt\randomfunction.h(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Pirate.cpp
+  Shaman.cpp
+  Treasure Hunt.cpp
+  Warrior.cpp
+  Generating Code...
+  Treasure Hunt.vcxproj -> C:\Users\Iosif-laptop\Desktop\teme facultate anul 1\semestrul 2\poo lab\Treasure hunt\Treasure Hunt\Debug\Treasure Hunt.exe
